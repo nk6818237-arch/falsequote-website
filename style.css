@@ -334,8 +334,9 @@ body.mobile-menu-open {
     font-size: 0.75rem;
     font-weight: 500;
     border-radius: 999px;
-    background: var(--accent-gold-glow);
-    color: var(--accent-gold);
+    background: rgba(58, 139, 255, 0.12);
+    border: 1px solid rgba(58, 139, 255, 0.25);
+    color: var(--accent-blue);
 }
 
 .nav__welcome-message {
